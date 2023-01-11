@@ -535,7 +535,7 @@ h6{
   padding: 16px 32px;
 }  
 /* Responsive Design */
-@media screen and (max-width: 600px){
+@media screen and (max-device-width: 640px){
     *{
         box-sizing:border-box;
     }
